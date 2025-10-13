@@ -1,10 +1,11 @@
-# Shopping List Program 🛒
+# 🛒Shopping List Program 
 
 **NAME:** Sebastian Ivan S. Dalde  
 **Section:** TECHPRO A1  
 **Filename:** 'shopping_list.java'
+**Time Of Submittion:** 9:38 AM
 
-## Description 📓
+## 📓Description 
 This Java program allows you to:
 1. Enter up to 5 shopping items.
 2. Store them in an array.
