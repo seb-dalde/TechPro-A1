@@ -1,4 +1,4 @@
-# 🛒Shopping List Program 
+# 📋Shopping List Program 
 
 **NAME:** Sebastian Ivan S. Dalde  
 **Section:** TECHPRO A1  
