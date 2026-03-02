@@ -4,6 +4,6 @@
 **Section:** TECHPRO A1  
 **Teacher:** Lawrence Irinco
 
-## 🗣️ Access the Following Folders Above Named:
-1. **1ST SEMESTER**
-2. **2ND SEMESTER**
+## Ang nilalaman ay:
+1. **1ST SEMESTER (Up to Seatworks #15)**
+2. **2ND SEMESTER (Seatworks #1-11)**
